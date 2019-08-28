@@ -25,3 +25,21 @@ Current battle: SimplePlayer vs SimplePlayer1	| 0
 SimplePlayer : 2
 SimplePlayer1 : 2
 SimplePlayer2 : 2
+SimplePlayer
+SimplePlayer1
+SimplePlayer2
+Current battle: SimplePlayer vs SimplePlayer1	| 0
+Current battle: SimplePlayer vs SimplePlayer2	| 0
+Current battle: SimplePlayer1 vs SimplePlayer2	| 0
+SimplePlayer : 2
+SimplePlayer1 : 2
+SimplePlayer2 : 2
+SimplePlayer
+SimplePlayer1
+SimplePlayer2
+Current battle: SimplePlayer vs SimplePlayer1	| 0
+Current battle: SimplePlayer vs SimplePlayer2	| 0
+Current battle: SimplePlayer1 vs SimplePlayer2	| 0
+SimplePlayer : 2
+SimplePlayer1 : 2
+SimplePlayer2 : 2
