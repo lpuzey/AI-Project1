@@ -16738,3 +16738,3190 @@ SimplePlayer2 wins.
 
 -----
 
+NewPlayer
+SimplePlayer2
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 3.
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+2 0 0 1 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 3.
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 
+2 0 0 1 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+2 0 0 1 0 0 0 
+2 0 0 1 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 3.
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 
+2 0 0 1 0 0 0 
+2 0 0 1 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+2 0 0 1 0 0 0 
+2 0 0 1 0 0 0 
+2 0 0 1 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 3.
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 1 0 0 0 
+2 0 0 1 0 0 0 
+2 0 0 1 0 0 0 
+2 0 0 1 0 0 0 
+
+NewPlayer wins.
+SimplePlayer2
+NewPlayer
+SimplePlayer2's turn:
+SimplePlayer2 took 0.001 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 3.
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+1 0 0 2 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+1 0 0 2 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 3.
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+1 0 0 2 0 0 0 
+1 0 0 2 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+1 0 0 2 0 0 0 
+1 0 0 2 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 3.
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+1 0 0 2 0 0 0 
+1 0 0 2 0 0 0 
+1 0 0 2 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 
+1 0 0 2 0 0 0 
+1 0 0 2 0 0 0 
+1 0 0 2 0 0 0 
+
+SimplePlayer2 wins.
+NewPlayer
+SimplePlayer2
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 4.
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+2 0 0 0 1 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 4.
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 0 
+2 0 0 0 1 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+2 0 0 0 1 0 0 0 0 
+2 0 0 0 1 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 4.
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 0 
+2 0 0 0 1 0 0 0 0 
+2 0 0 0 1 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+2 0 0 0 1 0 0 0 0 
+2 0 0 0 1 0 0 0 0 
+2 0 0 0 1 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 4.
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 0 
+2 0 0 0 1 0 0 0 0 
+2 0 0 0 1 0 0 0 0 
+2 0 0 0 1 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+2 0 0 0 1 0 0 0 0 
+2 0 0 0 1 0 0 0 0 
+2 0 0 0 1 0 0 0 0 
+2 0 0 0 1 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 4.
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 0 
+2 0 0 0 1 0 0 0 0 
+2 0 0 0 1 0 0 0 0 
+2 0 0 0 1 0 0 0 0 
+2 0 0 0 1 0 0 0 0 
+
+NewPlayer wins.
+SimplePlayer2
+NewPlayer
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 4.
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+1 0 0 0 2 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 
+1 0 0 0 2 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 4.
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+1 0 0 0 2 0 0 0 0 
+1 0 0 0 2 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.001 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 
+1 0 0 0 2 0 0 0 0 
+1 0 0 0 2 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 4.
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+1 0 0 0 2 0 0 0 0 
+1 0 0 0 2 0 0 0 0 
+1 0 0 0 2 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 
+1 0 0 0 2 0 0 0 0 
+1 0 0 0 2 0 0 0 0 
+1 0 0 0 2 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 4.
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+1 0 0 0 2 0 0 0 0 
+1 0 0 0 2 0 0 0 0 
+1 0 0 0 2 0 0 0 0 
+1 0 0 0 2 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 
+1 0 0 0 2 0 0 0 0 
+1 0 0 0 2 0 0 0 0 
+1 0 0 0 2 0 0 0 0 
+1 0 0 0 2 0 0 0 0 
+
+SimplePlayer2 wins.
+NewPlayer
+SimplePlayer2
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 5.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 5.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 5.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 5.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 5.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.001 seconds to move.
+SimplePlayer2 took 0.001 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 5.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+
+NewPlayer wins.
+SimplePlayer2
+NewPlayer
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 5.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 5.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 5.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 5.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 5.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+
+SimplePlayer2 wins.
+NewPlayer
+SimplePlayer2
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 5.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.001 seconds to move.
+SimplePlayer2 took 0.001 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 5.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 5.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 5.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 5.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 5.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 5.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+2 0 0 0 0 1 0 0 0 0 0 
+
+NewPlayer wins.
+SimplePlayer2
+NewPlayer
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 5.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 5.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 5.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 5.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.001 seconds to move.
+NewPlayer took 0.001 seconds to move.
+NewPlayer placed a piece in column 5.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 5.
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+1 0 0 0 0 2 0 0 0 0 0 
+
+SimplePlayer2 wins.
+NewPlayer
+SimplePlayer2
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 6.
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 6.
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 6.
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 6.
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.001 seconds to move.
+SimplePlayer2 took 0.001 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 6.
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.001 seconds to move.
+NewPlayer placed a piece in column 6.
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 6.
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 6.
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+2 0 0 0 0 0 1 0 0 0 0 0 0 
+
+NewPlayer wins.
+SimplePlayer2
+NewPlayer
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 6.
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 6.
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 6.
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 6.
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 6.
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 6.
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.001 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 6.
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+1 0 0 0 0 0 2 0 0 0 0 0 0 
+
+SimplePlayer2 wins.
+NewPlayer
+SimplePlayer2
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.001 seconds to move.
+SimplePlayer2 took 0.001 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.001 seconds to move.
+SimplePlayer2 took 0.001 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+NewPlayer wins.
+SimplePlayer2
+NewPlayer
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.001 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.001 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.001 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+SimplePlayer2 wins.
+NewPlayer
+SimplePlayer2
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.001 seconds to move.
+SimplePlayer2 took 0.001 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.001 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.001 seconds to move.
+SimplePlayer2 took 0.001 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.001 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+
+NewPlayer wins.
+SimplePlayer2
+NewPlayer
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 7.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 
+
+SimplePlayer2 wins.
+NewPlayer
+SimplePlayer2
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 8.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.001 seconds to move.
+NewPlayer placed a piece in column 8.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 8.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 8.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 8.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 8.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.001 seconds to move.
+SimplePlayer2 took 0.001 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 8.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 8.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.001 seconds to move.
+SimplePlayer2 took 0.001 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.001 seconds to move.
+NewPlayer placed a piece in column 8.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.0 seconds to move.
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 8.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+NewPlayer took 0.001 seconds to move.
+SimplePlayer2 took 0.001 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 8.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+2 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+
+NewPlayer wins.
+SimplePlayer2
+NewPlayer
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 8.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 8.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 8.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.001 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 8.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 8.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 8.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 8.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 8.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.001 seconds to move.
+NewPlayer took 0.001 seconds to move.
+NewPlayer placed a piece in column 8.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.001 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+
+NewPlayer's turn:
+SimplePlayer2 took 0.0 seconds to move.
+NewPlayer took 0.0 seconds to move.
+NewPlayer placed a piece in column 8.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+
+SimplePlayer2's turn:
+SimplePlayer2 took 0.0 seconds to move.
+SimplePlayer2 placed a piece in column 0.
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+1 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 
+
+SimplePlayer2 wins.
+
+-----
+

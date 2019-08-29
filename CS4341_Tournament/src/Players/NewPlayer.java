@@ -25,7 +25,7 @@ public class NewPlayer extends Player{
 					if(this.turn == 1)
 						return new Move(false, (state.columns-1)/2);	
 					else
-						return new Move(false, j); // j is the column number starting at 0
+						return new Move(false, (state.columns-1)/2); // j is the column number starting at 0
 				}
 				//starting the game we want them to take and control the middle of the board			
 
