@@ -225,3 +225,31 @@ SimplePlayer : 3
 SimplePlayer1 : 3
 SimplePlayer2 : 3
 NewPlayer : 3
+NewPlayer
+SimplePlayer
+SimplePlayer1
+SimplePlayer2
+Current battle: NewPlayer vs SimplePlayer	| 0
+Current battle: NewPlayer vs SimplePlayer1	| 0
+Current battle: NewPlayer vs SimplePlayer2	| 0
+Current battle: SimplePlayer vs SimplePlayer1	| 0
+Current battle: SimplePlayer vs SimplePlayer2	| 0
+Current battle: SimplePlayer1 vs SimplePlayer2	| 0
+SimplePlayer : 3
+SimplePlayer1 : 3
+SimplePlayer2 : 3
+NewPlayer : 3
+NewPlayer
+SimplePlayer
+SimplePlayer1
+SimplePlayer2
+Current battle: NewPlayer vs SimplePlayer	| 0
+Current battle: NewPlayer vs SimplePlayer1	| 0
+Current battle: NewPlayer vs SimplePlayer2	| 0
+Current battle: SimplePlayer vs SimplePlayer1	| 0
+Current battle: SimplePlayer vs SimplePlayer2	| 0
+Current battle: SimplePlayer1 vs SimplePlayer2	| 0
+SimplePlayer : 3
+SimplePlayer1 : 3
+SimplePlayer2 : 3
+NewPlayer : 3

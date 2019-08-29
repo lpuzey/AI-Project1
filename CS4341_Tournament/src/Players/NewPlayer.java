@@ -20,12 +20,10 @@ public class NewPlayer extends Player{
 				//if the row and column is empty
 				if(state.getBoardMatrix()[i][j] == 0)
 				{
-					if(this.turn == 0)
-						return new Move(false, (state.columns-1)/ 2);
-					if(this.turn == 1)
-						return new Move(false, (state.columns-1)/2);	
+					if((this.turn == 1) || (this.turn == 2))
+						return new Move(false, (state.columns-1)/ 2);	
 					else
-						return new Move(false, (state.columns-1)/2); // j is the column number starting at 0
+						return new Move(false, j+1); // j is the column number starting at 0
 				}
 				//starting the game we want them to take and control the middle of the board			
 
