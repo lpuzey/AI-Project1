@@ -14,6 +14,7 @@ public class NewPlayer extends Player{
 
 	@Override
 	public Move getMove(StateTree state) {
+		System.out.println("hello");
 		//array with all are heuristic evaluations for each column
 		//The size of the array is equal to the number of columns in the board
 		int[] hueristicEval = new int[state.columns];
@@ -30,9 +31,21 @@ public class NewPlayer extends Player{
 				hueristicEval[j] = 0;
 		}
 
+
+		for(int j=0; j<state.columns; j++)
+		{
+			for(int i=0; i<state.rows; i++)
+			{
+				if((turn == 2)&& (state.getBoardMatrix()[i][j] == 1)&&(state.getBoardMatrix()[i+1][j] == 1)&&(state.getBoardMatrix()[i+2][j]==1)) {
+					
+					hueristicEval[j] = 2;
+					System.out.println(hueristicEval[j]);
+				}
+				
+			}
+		}
 		int max = hueristicEval[0];
 		int index = -1000;
-
 		//goes through the list looking for the maximum value and finds the index of it
 		for (int i = 0; i < hueristicEval.length; i++) 
 		{
@@ -42,18 +55,7 @@ public class NewPlayer extends Player{
 				index = i;
 			}
 		}
-		for(int j=0; j<state.columns; j++)
-		{
-			for(int i=0; i<state.rows; i++)
-			{
-				if((turn == 2)&& (state.getBoardMatrix()[i][j] == 1)) {
-					
-					
-				}
-				
-			}
-		}
-		
+
 		//plays the move with the highest heuristic value
 		return new Move(false, index);	
 			
