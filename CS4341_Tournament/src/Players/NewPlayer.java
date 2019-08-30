@@ -42,6 +42,17 @@ public class NewPlayer extends Player{
 				index = i;
 			}
 		}
+		for(int j=0; j<state.columns; j++)
+		{
+			for(int i=0; i<state.rows; i++)
+			{
+				if((turn == 2)&& (state.getBoardMatrix()[i][j] == 1)) {
+					
+				}
+				
+			}
+		}
+		
 		//plays the move with the highest heuristic value
 		return new Move(false, index);	
 			
