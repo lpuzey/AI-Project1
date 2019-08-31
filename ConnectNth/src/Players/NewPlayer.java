@@ -60,12 +60,22 @@ public class NewPlayer extends Player{
 		//plays the move with the highest heuristic value
 	//	if(state.getBoardMatrix()[i][index] == 0)
 	//	{
+		StateTree test = StateTree(1, 2, 3, 4, true, false, state);
+		state.children.add(test);
+		turnNum++;
+		System.out.println("MINIMAX: " + minimax(state, turnNum, max));
 			return new Move(false, index);	
+			
 	//	}
 		
 			
 	}
 	
+	private StateTree StateTree(int i, int j, int k, int l, boolean b, boolean c, StateTree state) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 	public int minimax(StateTree state,int depth, int heuristic_eval) {
 		 if(depth==0) {
 		  return heuristic_eval;

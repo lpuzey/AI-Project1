@@ -24,8 +24,8 @@ public abstract class StateTree
     public int rows, columns, winNumber, turn; // board parameters
     protected boolean pop1, pop2; // true if the player has used their pop move
     protected int[][] boardMatrix; // matrix representing the board (0 = empty, 1 = player1, 2 = player2)
-    protected StateTree parent; // parent state
-    protected ArrayList<StateTree> children; // list of children states
+    public StateTree parent; // parent state
+    public ArrayList<StateTree> children; // list of children states
     private PrintStream out = null;
 
 

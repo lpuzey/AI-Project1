@@ -10,7 +10,8 @@ import java.util.concurrent.TimeoutException;
 
 import Players.Player;
 import Players.SimplePlayer1;
-import Players.SimplePlayer2;
+//import Players.SimplePlayer2;
+import Players.NewPlayer;
 
 public class RunReferee {
 
@@ -27,9 +28,9 @@ public class RunReferee {
 
 
         Player player1 = (Player) new SimplePlayer1("SimplePlayer1", 1, timeLimit);
-        Player player2 = (Player) new SimplePlayer2("SimplePlayer2", 2, timeLimit);
+        Player player2 = (Player) new NewPlayer("NewPlayer", 2, timeLimit);
 
-        Referee referee = new Referee();
+        final Referee referee = new Referee();
         referee.setOut(System.out);
         referee.initMatch(boardRows, boardColumns, winNumber, timeLimit, player1, player2);
         Callable<Object> judge1 = new Callable<Object>() {
@@ -42,7 +43,7 @@ public class RunReferee {
         final Future<Object> future1 = service.submit(judge1);
         int result = -1;
         try {
-            result = (int) future1.get(battleDurationLimit, TimeUnit.SECONDS);
+            result = (Integer) future1.get(battleDurationLimit, TimeUnit.SECONDS);
         } catch (InterruptedException e) {
             e.printStackTrace();
         } catch (ExecutionException e) {
