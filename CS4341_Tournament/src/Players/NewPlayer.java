@@ -31,7 +31,9 @@ public class NewPlayer extends Player{
 				hueristicEval[j] = 0;
 		}
 
-
+		int max = hueristicEval[0];
+		int index = -1000;
+		
 		for(int j=0; j<state.columns; j++)
 		{
 			for(int i=0; i<state.rows; i++)
@@ -44,8 +46,7 @@ public class NewPlayer extends Player{
 				
 			}
 		}
-		int max = hueristicEval[0];
-		int index = -1000;
+		
 		//goes through the list looking for the maximum value and finds the index of it
 		for (int i = 0; i < hueristicEval.length; i++) 
 		{
@@ -57,7 +58,11 @@ public class NewPlayer extends Player{
 		}
 
 		//plays the move with the highest heuristic value
-		return new Move(false, index);	
+	//	if(state.getBoardMatrix()[i][index] == 0)
+	//	{
+			return new Move(false, index);	
+	//	}
+		
 			
 	}
 
