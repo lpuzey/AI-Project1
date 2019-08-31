@@ -12,8 +12,6 @@ import Utilities.StateTree;
  * @author Ethan Prihar
  *
  */
-
-
 public class SimplePlayer extends Player
 {
     public SimplePlayer(String n, int t, int l)
