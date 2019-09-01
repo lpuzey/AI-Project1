@@ -56,6 +56,13 @@ public class NewPlayer extends Player{
 				index = i;
 			}
 		}
+		
+		
+		
+		
+
+		
+		
 
 		//plays the move with the highest heuristic value
 	//	if(state.getBoardMatrix()[i][index] == 0)
@@ -71,7 +78,45 @@ public class NewPlayer extends Player{
 			
 	}
 	
-	private StateTree StateTree(int i, int j, int k, int l, boolean b, boolean c, StateTree state) {
+	/**
+	* This function will create children for any element in a tree that doent have children
+	* and isn't and end condition
+	*/
+	public void makeChildren(StateTree state) 
+	{
+		if(state.children.isEmpty())  // if this statetree object has no children, make it children
+		{
+				int nextTurn = (turn == 1) ? 2 : 1;  // this switches the turn so we know whos turn is next
+				for(int i=0;  i<state.rows; i++)
+				{
+					if(state.getBoardMatrix()[i][state.columns] != 0)//if column is completely filled
+					{
+						int[] childMove = {i, 1};
+						state.children.add(StateTree(state.rows, state.columns, state.winNumber, state.pop1, state.pop2, state));
+					}
+					if(turn == 1 && (state.pop1==false||state.pop2==false))
+					{
+						int[] childMove = {i, 0};
+						state.children.add(StateTree(state.rows, state.columns, state.winNumber, state.pop1, state.pop2, state));
+					}
+					else if(turn == 2 && (state.pop1==false&&state.pop2==false))
+					{
+						int[] childMove = {i, 0};
+						state.children.add(StateTree(state.rows, state.columns, state.winNumber, state.pop1, state.pop2, state));
+					}
+				}
+			
+		}
+		else // if it already has children make children for it's children
+		{
+			for(StateTree child: state.children)
+			{
+				this.makeChildren(state);
+			}
+		}
+	}
+	
+	private StateTree StateTree(int i, int j, int l, boolean b, boolean c, StateTree state) {
 		// TODO Auto-generated method stub
 		return null;
 	}
