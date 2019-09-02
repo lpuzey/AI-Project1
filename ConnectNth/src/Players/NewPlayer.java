@@ -105,10 +105,13 @@ public class NewPlayer extends Player{
 			for(int r=0; r<state.rows- winNum; r++){
 				int[] window = Arrays.copyOfRange(columnArray, r , r + winNum );
 				//count the number of piece in window and see if it is equal to state.winNumber
-				score += 100;
-				//count num of piece and see if it is equal to 3 and one of them is empty == 0
-				//might be able to use winning column
-				score += 10;	
+				if(count(window, piece) == 4) {
+					score += 100;
+				}
+				else if((count(window,piece) == 3)&&(count(window,0) == 1)) {
+					score+= 10;
+				}
+				
 			}
 		}
 		//upwards diagonals
@@ -175,6 +178,19 @@ public class NewPlayer extends Player{
 			}
 		}
 		return -1;
+	}
+	
+	//count the number of a piece in an array
+	int count(int[] array, int piece) {
+		int count = 0;
+		for(int i = 0; i < array.length; i++)
+	        {
+	            if(array[i] == piece)
+	            {
+	                count++;
+	            }
+	        }
+		return count;
 	}
 		 
 	
