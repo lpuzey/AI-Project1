@@ -53,7 +53,7 @@ public class NewPlayer extends Player{
 				
 			}
 		}
-		if(winningColumn(state,turn)) {
+		if(wonGame(state,turn)) {
 		//	hueristicEval[winningColumn(state,turn)] += 1000;
 		}
 		
@@ -134,26 +134,23 @@ public class NewPlayer extends Player{
 	}
 	
 	//returns the Column number for a winning 4 in a row
-	boolean winningColumn(StateTree state, int piece){ 
-		boolean possibleWinner = false;
+	boolean wonGame(StateTree state, int piece){ 
 		int winNum = state.winNumber - 1;
+		boolean badNum = false;
 		//check Horizontal
 		for(int c=0; c<state.columns - winNum; c++)
 		{
 			for(int r=0; r<state.rows; r++)
 			{
-//				for(int z=0; z<winNum; z++) 
-//				{
-				if((state.getBoardMatrix()[r][c] == piece)&&(state.getBoardMatrix()[r][c+1] == piece)&&(state.getBoardMatrix()[r][c+2] == piece)&&(state.getBoardMatrix()[r][c+3] == piece)) {	
-					return true; 
-//					while(possibleWinner==false) {
-//						if(state.getBoardMatrix()[r][c+z] == piece) 
-//						{
-//							return true;
-//						}
+				for(int i =0; i<=winNum; i++) {
+					if(state.getBoardMatrix()[r][c+i] != piece) {
+						badNum = true; 							
 					}
-//				}
-					
+					if((badNum == false)&& (i == winNum)) {
+						return true;
+					}
+				}
+
 			}
 		}
 		//check Vertical
@@ -161,10 +158,15 @@ public class NewPlayer extends Player{
 		{
 			for(int r=0; r<state.rows - winNum; r++)
 			{
-				if((state.getBoardMatrix()[r][c] == piece)&&(state.getBoardMatrix()[r+1][c] == piece)&&(state.getBoardMatrix()[r+2][c] == piece)&&(state.getBoardMatrix()[r+3][c] == piece)) {
-					return true; 
+				for(int i =0; i<=winNum; i++) {
+					if(state.getBoardMatrix()[r+i][c] != piece) {
+						badNum = true; 							
+					}
+					if((badNum == false)&& (i == winNum)) {
+						return true;
+					}
 				}
-					
+
 			}
 		}
 		//check diagonals going up
@@ -172,27 +174,38 @@ public class NewPlayer extends Player{
 		{
 			for(int r=0; r<state.rows - winNum; r++)
 			{
-				if((state.getBoardMatrix()[r][c] == piece)&&(state.getBoardMatrix()[r+1][c+1] == piece)&&(state.getBoardMatrix()[r+2][c+2] == piece)&&(state.getBoardMatrix()[r+3][c+3] == piece)) {
-					return true; 
+				for(int i =0; i<=winNum; i++) {
+					if(state.getBoardMatrix()[r+i][c+i] != piece) {
+						badNum = true; 							
+					}
+					if((badNum == false)&& (i == winNum)) {
+						return true;
+					}
 				}
-					
+
 			}
 		}
 		//check diagonals going down
 		for(int c=0; c<state.columns - winNum; c++)
 		{
-			for(int r=winNum; r<state.rows ; r++)
+			for(int r=0; r<state.rows; r++)
 			{
-				if((state.getBoardMatrix()[r][c] == piece)&&(state.getBoardMatrix()[r-1][c+1] == piece)&&(state.getBoardMatrix()[r-2][c+2] == piece)&&(state.getBoardMatrix()[r-3][c+3] == piece)) {
-					return true; 
+				for(int i =0; i<=winNum; i++) {
+					if(state.getBoardMatrix()[r-i][c+1] != piece) {
+						badNum = true; 							
+					}
+					if((badNum == false)&& (i == winNum)) {
+						return true;
+					}
 				}
-					
+
 			}
 		}
 		return false;
 	}
+
 	
-	//count the number of a piece in an array
+	//counts the number of a piece in an array
 	int count(int[] array, int piece) {
 		int count = 0;
 		for(int i = 0; i < array.length; i++)
@@ -252,6 +265,7 @@ public class NewPlayer extends Player{
 		return null;
 	}
 	*/
+	//checks if the board is full with pieces
     public static boolean checkFull(StateTree board)
     {
         for(int i=0; i<board.rows; i++)
@@ -265,9 +279,9 @@ public class NewPlayer extends Player{
         return true;
     }
 	
-	
+	//tells if we are on the last set of children in the minimax tree
 	public boolean isTerminalNode(StateTree board) {
-		return winningColumn(board, 1) || winningColumn(board, 2) || checkFull(board);
+		return wonGame(board, 1) || wonGame(board, 2) || checkFull(board);
 	}
 	
 	//returns the maximum of two integers
@@ -287,13 +301,25 @@ public class NewPlayer extends Player{
 			return b;
 		}
 	}
+	
+	//check if a column is full with pieces
+	boolean columnFull(StateTree board, int columnNum){
+		for(int r = 0; r < board.rows; r++) {
+			if(board.getBoardMatrix()[r][columnNum] == 0) {
+				return false;
+			}
+		}
+		
+		return true;
+	}
 
+	
 	public int minimax(StateTree board, int depth, int playerNum) {
 		if(depth==0 || isTerminalNode(board)) {
 			if(isTerminalNode(board)) {
-				if(winningColumn(board, 1)) {
+				if(wonGame(board, 1)) {
 					return 1000000;
-				} else if(winningColumn(board, 2)) {
+				} else if(wonGame(board, 2)) {
 					return -1000000;
 				} else {
 					return 0;
