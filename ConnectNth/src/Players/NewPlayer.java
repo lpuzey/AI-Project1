@@ -1,6 +1,7 @@
 package Players;
 
 
+import java.util.ArrayList;
 import java.util.Arrays;
 
 import Utilities.Move;
@@ -22,7 +23,9 @@ public class NewPlayer extends Player{
 		//The size of the array is equal to the number of columns in the board
 		int[] hueristicEval = new int[state.columns];
 		
-		int minimax_val = minimax(state, 2, 1);
+		state.children = new ArrayList<StateTree>();
+		makeChildren(state, 3, 3);
+		int minimax_val = minimax(state, 3, 1);
 		System.out.println("MINIMAX VALUE: " + minimax_val);
 		
 		//Goes through the array and makes everything 0 unless it is the middle element in which it makes it 1
@@ -40,20 +43,20 @@ public class NewPlayer extends Player{
 		int max = hueristicEval[0];
 		int index = -1000;
 		
-		for(int j=0; j<state.columns; j++)
-		{
-			for(int i=0; i<state.rows - 3; i++)
-			{
-				if((turn == 2)&& (state.getBoardMatrix()[i][j] == 1)&&(state.getBoardMatrix()[i+1][j] == 1)&&(state.getBoardMatrix()[i+2][j]==1)) {
-					
-					hueristicEval[j] = 2;
-					if(state.getBoardMatrix()[i+3][j]==2) {
-						hueristicEval[j] = 0;
-					}
-				}
-				
-			}
-		}
+//		for(int j=0; j<state.columns; j++)
+//		{
+//			for(int i=0; i<state.rows - 3; i++)
+//			{
+//				if((turn == 2)&& (state.getBoardMatrix()[i][j] == 1)&&(state.getBoardMatrix()[i+1][j] == 1)&&(state.getBoardMatrix()[i+2][j]==1)) {
+//					
+//					hueristicEval[j] = 2;
+//					if(state.getBoardMatrix()[i+3][j]==2) {
+//						hueristicEval[j] = 0;
+//					}
+//				}
+//				
+//			}
+//		}
 		if(wonGame(state,turn)) {
 		//	hueristicEval[winningColumn(state,turn)] += 1000;
 		}
@@ -135,7 +138,7 @@ public class NewPlayer extends Player{
 	}
 	
 	int computeScore(int[] window, StateTree state,int piece) {
-		int score = -10000;
+		int score = 0;
 		int winNum = state.winNumber - 1;
 		
 		if(count(window,piece) == state.winNumber) {
@@ -257,114 +260,56 @@ public class NewPlayer extends Player{
 	* This function will create children for any element in a tree that doesn't have children
 	* and isn't and end condition
 	*/
-	public void makeChildren(StateTree state, int depth) 
+	public void makeChildren(StateTree state, int depth, int max_height) 
 	{
-		if(state.children==null && depth==0)  // if this statetree object has no children, make it children
+		
+		if(depth==0 && state.children.size()==0)  // if this statetree object has no children, make it children
 		{
 			
-			//drop a disc for player 1
-			if(state.turn == 1)
-			{
 			for(int i=0; i<state.rows; i++) 
 			{
 				for(int j=0;  j<state.columns; j++)
 				{
-					if(state.getBoardMatrix()[state.rows-1][j] == 0)//if column is not completely filled
+					if(state.getBoardMatrix()[i][j] == 0)//if column is not completely filled, drop it
 					{
 						RefereeBoard newBoard = new RefereeBoard(state.rows, state.columns, state.winNumber, state.turn, state.pop1, state.pop2, state.parent);
 						
 						RefereeBoard updatedBoard = copyBoard((RefereeBoard) state, newBoard);
 						Move possibleDropMove = new Move(false, j);
+						if(updatedBoard.validMove(possibleDropMove))
+						{
 						updatedBoard.makeMove(possibleDropMove);
-						updatedBoard.turn = 2;
 						state.children.add(updatedBoard);
+						//System.out.println("TESTPLAYER1DROP:    row:"+i+"col:"+j);
+						}
 					}
+//					 else if(state.getBoardMatrix()[0][j] != 0) //if column has at least one disc, pop it
+//					{
+//						RefereeBoard newBoard;
+//						newBoard = new RefereeBoard(state.rows, state.columns, state.winNumber, state.turn, state.pop1, state.pop2, state.parent);
+//						
+//						RefereeBoard updatedBoard = copyBoard((RefereeBoard) state, newBoard);
+//						Move possiblePopMove = new Move(true, j);
+//						if(updatedBoard.validMove(possiblePopMove))
+//						{
+//						updatedBoard.makeMove(possiblePopMove);
+//						state.children.add(updatedBoard);
+//						System.out.println("TESTPLAYER1POP");
+//						}				
+//						//updatedBoard.turn = 2;
+//					}
 				}
 			}
-			}
-			
-			//pop a disc for player 1
-			if(state.turn == 1)
-			{
-			for(int i=0; i<state.rows; i++) 
-			{
-				for(int j=0;  j<state.columns; j++)
-				{
-					if(state.getBoardMatrix()[0][j] == 0)//contains at least one disc
-					{
-						RefereeBoard newBoard;
-						newBoard = new RefereeBoard(state.rows, state.columns, state.winNumber, state.turn, state.pop1, state.pop2, state.parent);
-						
-						RefereeBoard updatedBoard = copyBoard((RefereeBoard) state, newBoard);
-						Move possiblePopMove = new Move(true, j);
-						updatedBoard.makeMove(possiblePopMove);
-						updatedBoard.turn = 2;
-						state.children.add(updatedBoard);
-					}
-				}
-			}
-			}
-			
-			//drop a disc for player 2
-			if(state.turn == 2)
-			{
-			for(int i=0; i<state.rows; i++) 
-			{
-				for(int j=0;  j<state.columns; j++)
-				{
-					if(state.getBoardMatrix()[state.rows-1][j] == 0)//if column is not completely filled
-					{
-						RefereeBoard newBoard;
-						newBoard = new RefereeBoard(state.rows, state.columns, state.winNumber, state.turn, state.pop1, state.pop2, state.parent);
-						
-						RefereeBoard updatedBoard = copyBoard((RefereeBoard) state, newBoard);
-						Move possibleDropMove = new Move(false, j);
-						updatedBoard.makeMove(possibleDropMove);
-						updatedBoard.turn = 1;
-						state.children.add(updatedBoard);
-					}
-				}
-			}
-			}
-			
-			//pop a disc for player 2
-			if(state.turn == 2)
-			{
-			for(int i=0; i<state.rows; i++) 
-			{
-				for(int j=0;  j<state.columns; j++)
-				{
-					if(state.getBoardMatrix()[0][j] != 0)//if column contains at least one disc
-					{
-						RefereeBoard newBoard;
-						newBoard = new RefereeBoard(state.rows, state.columns, state.winNumber, state.turn, state.pop1, state.pop2, state.parent);
-						
-						RefereeBoard updatedBoard = copyBoard((RefereeBoard) state, newBoard);
-						Move possiblePopMove = new Move(true, j);
-						updatedBoard.makeMove(possiblePopMove);
-						updatedBoard.turn = 1;
-						state.children.add(updatedBoard);
-					}
-				}
-			}
-			}
-
+			//}
 		}
-		if(!(state.children == null)) 
+		
+		if(depth!=0) 
 		{
-			for(StateTree child: state.children)
-			{
-				this.makeChildren(child, (depth-1));
-			}
+				makeChildren(state, (depth-1), max_height);
 		}
 	}
 	
 	
-	
-//	private StateTree StateTree(int i, int j, int l, boolean b, boolean c, StateTree state) {
-//		// TODO Auto-generated method stub
-//		return null;
-//	}
 	
 	//checks if the board is full with pieces
     public static boolean checkFull(StateTree board)
@@ -416,7 +361,6 @@ public class NewPlayer extends Player{
 
 	
 	public int minimax(StateTree board, int depth, int playerNum) {
-		this.makeChildren(board, depth);
 		if(depth==0 || isTerminalNode(board)) {
 			if(isTerminalNode(board)) {
 				if(wonGame(board, 1)) {
@@ -424,6 +368,7 @@ public class NewPlayer extends Player{
 				} else if(wonGame(board, 2)) {
 					return -1000000;
 				} else {
+					System.out.println("Reached last base case");
 					return 0;
 				}
 			} else //depth is 0
