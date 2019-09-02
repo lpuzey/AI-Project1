@@ -5,6 +5,7 @@ import java.util.Arrays;
 
 import Utilities.Move;
 import Utilities.StateTree;
+import Referee.RefereeBoard;
 
 public class NewPlayer extends Player{
 
@@ -191,8 +192,10 @@ public class NewPlayer extends Player{
 			for(int r=0; r<state.rows; r++)
 			{
 				for(int i =0; i<=winNum; i++) {
-					if(state.getBoardMatrix()[r-i][c+1] != piece) {
+					if((r-i)>=0) {
+					if(state.getBoardMatrix()[r-i][c+i] != piece) {
 						badNum = true; 							
+					}
 					}
 					if((badNum == false)&& (i == winNum)) {
 						return true;
@@ -217,54 +220,135 @@ public class NewPlayer extends Player{
 	        }
 		return count;
 	}
-		 
+
+
+	public RefereeBoard getBoard(StateTree state) {
+		return (RefereeBoard) state.parent;
+	}
 	
-
-
+	public RefereeBoard copyBoard(RefereeBoard oldBoard, RefereeBoard newBoard) {
+		
+		for(int i=0; i<oldBoard.rows; i++) {
+			for(int j=0; j<oldBoard.columns; j++) {
+				newBoard.getBoardMatrix()[i][j] = oldBoard.getBoardMatrix()[i][j];
+			}
+		}
+		return newBoard;
+	}
 	
 	/**
-	* This function will create children for any element in a tree that doent have children
+	* This function will create children for any element in a tree that doesn't have children
 	* and isn't and end condition
 	*/
-/*	public void makeChildren(StateTree state) 
+	public void makeChildren(StateTree state, int depth) 
 	{
-		if(state.children.isEmpty())  // if this statetree object has no children, make it children
+		if(state.children==null && depth==0)  // if this statetree object has no children, make it children
 		{
-				int nextTurn = (turn == 1) ? 2 : 1;  // this switches the turn so we know whos turn is next
-				for(int i=0;  i<state.rows; i++)
+			
+			//drop a disc for player 1
+			if(state.turn == 1)
+			{
+			for(int i=0; i<state.rows; i++) 
+			{
+				for(int j=0;  j<state.columns; j++)
 				{
-					if(state.getBoardMatrix()[i][state.columns] != 0)//if column is completely filled
+					if(state.getBoardMatrix()[state.rows-1][j] == 0)//if column is not completely filled
 					{
-						int[] childMove = {i, 1};
-						state.children.add(StateTree(state.rows, state.columns, state.winNumber, state.pop1, state.pop2, state));
-					}
-					if(turn == 1 && (state.pop1==false||state.pop2==false))
-					{
-						int[] childMove = {i, 0};
-						state.children.add(StateTree(state.rows, state.columns, state.winNumber, state.pop1, state.pop2, state));
-					}
-					else if(turn == 2 && (state.pop1==false&&state.pop2==false))
-					{
-						int[] childMove = {i, 0};
-						state.children.add(StateTree(state.rows, state.columns, state.winNumber, state.pop1, state.pop2, state));
+						RefereeBoard newBoard = new RefereeBoard(state.rows, state.columns, state.winNumber, state.turn, state.pop1, state.pop2, state.parent);
+						
+						RefereeBoard updatedBoard = copyBoard((RefereeBoard) state, newBoard);
+						Move possibleDropMove = new Move(false, j);
+						updatedBoard.makeMove(possibleDropMove);
+						updatedBoard.turn = 2;
+						state.children.add(updatedBoard);
 					}
 				}
+			}
+			}
 			
+			//pop a disc for player 1
+			if(state.turn == 1)
+			{
+			for(int i=0; i<state.rows; i++) 
+			{
+				for(int j=0;  j<state.columns; j++)
+				{
+					if(state.getBoardMatrix()[0][j] == 0)//contains at least one disc
+					{
+						RefereeBoard newBoard;
+						newBoard = new RefereeBoard(state.rows, state.columns, state.winNumber, state.turn, state.pop1, state.pop2, state.parent);
+						
+						RefereeBoard updatedBoard = copyBoard((RefereeBoard) state, newBoard);
+						Move possiblePopMove = new Move(true, j);
+						updatedBoard.makeMove(possiblePopMove);
+						updatedBoard.turn = 2;
+						state.children.add(updatedBoard);
+					}
+				}
+			}
+			}
+			
+			//drop a disc for player 2
+			if(state.turn == 2)
+			{
+			for(int i=0; i<state.rows; i++) 
+			{
+				for(int j=0;  j<state.columns; j++)
+				{
+					if(state.getBoardMatrix()[state.rows-1][j] == 0)//if column is not completely filled
+					{
+						RefereeBoard newBoard;
+						newBoard = new RefereeBoard(state.rows, state.columns, state.winNumber, state.turn, state.pop1, state.pop2, state.parent);
+						
+						RefereeBoard updatedBoard = copyBoard((RefereeBoard) state, newBoard);
+						Move possibleDropMove = new Move(false, j);
+						updatedBoard.makeMove(possibleDropMove);
+						updatedBoard.turn = 1;
+						state.children.add(updatedBoard);
+					}
+				}
+			}
+			}
+			
+			//pop a disc for player 2
+			if(state.turn == 2)
+			{
+			for(int i=0; i<state.rows; i++) 
+			{
+				for(int j=0;  j<state.columns; j++)
+				{
+					if(state.getBoardMatrix()[0][j] != 0)//if column contains at least one disc
+					{
+						RefereeBoard newBoard;
+						newBoard = new RefereeBoard(state.rows, state.columns, state.winNumber, state.turn, state.pop1, state.pop2, state.parent);
+						
+						RefereeBoard updatedBoard = copyBoard((RefereeBoard) state, newBoard);
+						Move possiblePopMove = new Move(true, j);
+						updatedBoard.makeMove(possiblePopMove);
+						updatedBoard.turn = 1;
+						state.children.add(updatedBoard);
+					}
+				}
+			}
+			}
+
 		}
-		else // if it already has children make children for it's children
+		if(!(state.children == null)) 
 		{
 			for(StateTree child: state.children)
 			{
-				this.makeChildren(state);
+				this.makeChildren(child, (depth-1));
 			}
 		}
 	}
 	
-	private StateTree StateTree(int i, int j, int l, boolean b, boolean c, StateTree state) {
-		// TODO Auto-generated method stub
-		return null;
-	}
-	*/
+	
+	
+//	private StateTree StateTree(int i, int j, int l, boolean b, boolean c, StateTree state) {
+//		// TODO Auto-generated method stub
+//		return null;
+//	}
+	
 	//checks if the board is full with pieces
     public static boolean checkFull(StateTree board)
     {
@@ -315,6 +399,7 @@ public class NewPlayer extends Player{
 
 	
 	public int minimax(StateTree board, int depth, int playerNum) {
+		this.makeChildren(board, depth);
 		if(depth==0 || isTerminalNode(board)) {
 			if(isTerminalNode(board)) {
 				if(wonGame(board, 1)) {
