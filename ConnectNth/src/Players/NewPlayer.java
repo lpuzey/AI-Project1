@@ -82,13 +82,13 @@ public class NewPlayer extends Player{
 		
 //		System.out.println("MINIMAX: " + minimax(state, turnNum, max));
 			
+		System.out.println(evaluateScore(state, state.turn));
 			return new Move(false, index);	
 			
 		}
 		
 			
 	int evaluateScore(StateTree state, int piece) {
-		//horizontal score
 		int score = 0;
 		int[] rowArray = new int[state.rows];
 		int[] columnArray = new int[state.columns];
@@ -100,7 +100,9 @@ public class NewPlayer extends Player{
 			rowArray[r] = r;
 			for(int c=0; c<state.columns- winNum; c++){
 				window = Arrays.copyOfRange(rowArray, c , c + state.winNumber );
-				score += computeScore(window, state, piece);
+				score += computeScore(window, state, piece,score);
+				System.out.println("current score H:" + score);
+
 			}
 		}
 		//score Vertical
@@ -108,9 +110,8 @@ public class NewPlayer extends Player{
 			columnArray[c] = c;
 			for(int r=0; r<state.rows- winNum; r++){
 				window = Arrays.copyOfRange(columnArray, r , r + state.winNumber );
-				//count the number of piece in window and see if it is equal to state.winNumber
-				score += computeScore(window, state, piece);
-				
+				score += computeScore(window, state, piece,score);
+				System.out.println("current score V:" + score);
 			}
 		}
 		//upwards diagonals
@@ -119,7 +120,8 @@ public class NewPlayer extends Player{
 				for(int i = 0; i < state.winNumber; i++) {
 					 window[i] = state.getBoardMatrix()[r+i][c+i];
 				}
-				score += computeScore(window, state, piece);
+				score += computeScore(window, state, piece,score);
+				System.out.println("current score UD:" + score);
 			}
 		}
 		//downwards diagonals
@@ -128,8 +130,8 @@ public class NewPlayer extends Player{
 				for(int i = 0; i < state.winNumber; i++) {
 					 window[i] = state.getBoardMatrix()[r+winNum-i][c+i];
 				}
-				score += computeScore(window, state, piece);
-				
+				score += computeScore(window, state, piece,score);
+				System.out.println("current score DD:" + score);
 			}
 		}
 		
@@ -137,8 +139,7 @@ public class NewPlayer extends Player{
 		
 	}
 	
-	int computeScore(int[] window, StateTree state,int piece) {
-		int score = 0;
+	int computeScore(int[] window, StateTree state,int piece,int score) {
 		int winNum = state.winNumber - 1;
 		
 		if(count(window,piece) == state.winNumber) {
@@ -373,6 +374,7 @@ public class NewPlayer extends Player{
 				}
 			} else //depth is 0
 			{
+				//System.out.println("recursion");
 				return evaluateScore(board, 1);
 			}
 		}
