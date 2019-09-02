@@ -90,48 +90,65 @@ public class NewPlayer extends Player{
 		int[] rowArray = new int[state.rows];
 		int[] columnArray = new int[state.columns];
 		int winNum = state.winNumber - 1;
+		int[] window = new int[state.winNumber];
 
 		// score Horizontal
 		for(int r=0; r<state.rows; r++){
 			rowArray[r] = r;
 			for(int c=0; c<state.columns- winNum; c++){
-				int[] window = Arrays.copyOfRange(rowArray, c , c + winNum );
-				//count the number of piece and see if it is equal to state.winNumber
-				score += 100;
-				//count num of piece in window and see if it is equal to 3 and one of them is empty == 0
-				//might be able to use winning column
-				score += 10;	
+				window = Arrays.copyOfRange(rowArray, c , c + state.winNumber );
+				score += computeScore(window, state, piece);
 			}
 		}
 		//score Vertical
 		for(int c=0; c<state.columns; c++){
 			columnArray[c] = c;
 			for(int r=0; r<state.rows- winNum; r++){
-				int[] window = Arrays.copyOfRange(columnArray, r , r + winNum );
+				window = Arrays.copyOfRange(columnArray, r , r + state.winNumber );
 				//count the number of piece in window and see if it is equal to state.winNumber
-				if(count(window, piece) == 4) {
-					score += 100;
-				}
-				else if((count(window,piece) == 3)&&(count(window,0) == 1)) {
-					score+= 10;
-				}
+				score += computeScore(window, state, piece);
 				
 			}
 		}
 		//upwards diagonals
-		for(int r=0; r<state.rows - winNum; r++){
-			for(int c=0; c<state.columns- winNum; c++){
-			//	int[] window = 
-				//count the number of piece and see if it is equal to state.winNumber
-				score += 100;
-				//count num of piece in window and see if it is equal to 3 and one of them is empty == 0
-				//might be able to use winning column
-				score += 10;	
+		for(int c=0; c<state.columns - winNum; c++){
+			for(int r=0; r<state.rows- winNum; r++){
+				for(int i = 0; i < state.winNumber; i++) {
+					 window[i] = state.getBoardMatrix()[r+i][c+i];
+				}
+				score += computeScore(window, state, piece);
+			}
+		}
+		//downwards diagonals
+		for(int c=0; c<state.columns - winNum; c++){
+			for(int r=0; r<state.rows- winNum; r++){
+				for(int i = 0; i < state.winNumber; i++) {
+					 window[i] = state.getBoardMatrix()[r+winNum-i][c+i];
+				}
+				score += computeScore(window, state, piece);
+				
 			}
 		}
 		
 		return score;
 		
+	}
+	
+	int computeScore(int[] window, StateTree state,int piece) {
+		int score = -10000;
+		int winNum = state.winNumber - 1;
+		
+		if(count(window,piece) == state.winNumber) {
+			score += 100;
+		}
+		else if((count(window,piece) == winNum)&&(count(window, 0)==1)) {
+			score += 10;
+		}
+		else if((count(window,piece) == winNum - 1)&&(count(window, 0) == 2)) {
+			score += 5;
+		}
+		
+		return score;
 	}
 	
 	//returns the Column number for a winning 4 in a row
