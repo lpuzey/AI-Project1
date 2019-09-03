@@ -2,120 +2,100 @@ package Players;
 
 
 import java.util.ArrayList;
-import java.util.Arrays;
+
 
 import Utilities.Move;
 import Utilities.StateTree;
 import Referee.RefereeBoard;
 
-public class NewPlayer extends Player{
-
-	int turnNum = 0;
+public class PlayerLAPHCH extends Player{
 	
-	public NewPlayer(String n, int t, int l) {
+	StateTree optimalState;
+	
+	
+	public PlayerLAPHCH(String n, int t, int l) {
 		super(n, t, l);
 		// TODO Auto-generated constructor stub
 	}
 
 	@Override
 	public Move getMove(StateTree state) {
-		//array with all are heuristic evaluations for each column
-		//The size of the array is equal to the number of columns in the board
-		int[] hueristicEval = new int[state.columns];
 		
+		//gets the optimal state of the board from the minimax
 		state.children = new ArrayList<StateTree>();
-		makeChildren(state, 3, 3);
-		int minimax_val = minimax(state, 3, 1);
-		System.out.println("MINIMAX VALUE: " + minimax_val);
-		
-		//Goes through the array and makes everything 0 unless it is the middle element in which it makes it 1
-		for(int j=0; j<state.columns; j++)
-		{
-			//checks if it is the middle term
-			if(j==(state.columns-1)/ 2) {
-				//makes it equal to 1 because that is most valuable at the beginning of the game. 
-				hueristicEval[j] = 1;
-			}
-			else
-				hueristicEval[j] = 0;
-		}
+		makeChildren(state, 6);
+		StateTree OPTIMAL_STATE = getOptimalState();
 
-		int max = hueristicEval[0];
+		//goes through the board and finds the new move that minimax decided to make
 		int index = -1000;
-		
-//		for(int j=0; j<state.columns; j++)
-//		{
-//			for(int i=0; i<state.rows - 3; i++)
-//			{
-//				if((turn == 2)&& (state.getBoardMatrix()[i][j] == 1)&&(state.getBoardMatrix()[i+1][j] == 1)&&(state.getBoardMatrix()[i+2][j]==1)) {
-//					
-//					hueristicEval[j] = 2;
-//					if(state.getBoardMatrix()[i+3][j]==2) {
-//						hueristicEval[j] = 0;
-//					}
-//				}
-//				
-//			}
-//		}
-		if(wonGame(state,turn)) {
-		//	hueristicEval[winningColumn(state,turn)] += 1000;
-		}
-		
-		
-		//goes through the list looking for the maximum value and finds the index of it
-		for (int i = 0; i < hueristicEval.length; i++) 
+		for(int r=0; r<state.rows; r++)
 		{
-			if (max < hueristicEval[i]) 
+			for(int c=0; c<state.columns; c++)
 			{
-				max = hueristicEval[i];
-				index = i;
+				if(state.getBoardMatrix()[r][c] != OPTIMAL_STATE.getBoardMatrix()[r][c]) {
+					index = c;
+				}
+				
 			}
 		}
-		
 
-		//plays the move with the highest heuristic value
-	//	if(state.getBoardMatrix()[i][index] == 0)
-	//	{
-	//	StateTree test = StateTree(1, 2, 3, 4, true, false, state);
-	//state.children.add(test);
-		turnNum++;
-		
-//		System.out.println("MINIMAX: " + minimax(state, turnNum, max));
-			
-		System.out.println(evaluateScore(state, state.turn));
-			return new Move(false, index);	
+		//makes the move with the index given
+		return new Move(false, index);	
 			
 		}
 		
 			
+	
+	//function that goes through the state tree and evaluates the point totals
 	int evaluateScore(StateTree state, int piece) {
 		int score = 0;
-		int[] rowArray = new int[state.rows];
-		int[] columnArray = new int[state.columns];
 		int winNum = state.winNumber - 1;
-		int[] window = new int[state.winNumber];
-
+		//was supposed to always favor the middle column
+//		if (!columnFull(state,((state.columns-1)/ 2))){
+//			score += 3;
+//		}
+		
+	
 		// score Horizontal
+		//check in windows of 4 and looks horizontally at the board
 		for(int r=0; r<state.rows; r++){
+			int[] rowArray = new int[state.winNumber];
+			
+			for(int c=0; c<(state.columns-winNum); c++){
+				
+	
+				rowArray[c] = state.getBoardMatrix()[r][c];
+		}
+			//helper function that tells you how much each point piece in a row is worth
+			score += computeScore(rowArray, state, piece,score);
+	}
+		
+		//Our old attempt to do score Horizontal
+	/*	for(int r=0; r<state.rows; r++){
 			rowArray[r] = r;
 			for(int c=0; c<state.columns- winNum; c++){
 				window = Arrays.copyOfRange(rowArray, c , c + state.winNumber );
 				score += computeScore(window, state, piece,score);
 				System.out.println("current score H:" + score);
-
+	
 			}
-		}
+		}*/
 		//score Vertical
-		for(int c=0; c<state.columns; c++){
-			columnArray[c] = c;
-			for(int r=0; r<state.rows- winNum; r++){
-				window = Arrays.copyOfRange(columnArray, r , r + state.winNumber );
-				score += computeScore(window, state, piece,score);
-				System.out.println("current score V:" + score);
+		//check in windows of 4 and looks vertically at the board
+			for(int c=0; c<state.columns; c++){
+				int[] columnArray = new int[state.winNumber];
+				
+				for(int r=0; r<(state.rows-winNum); r++){
+					
+	
+					columnArray[r] = state.getBoardMatrix()[r][c];
 			}
+				//helper function that tells you how much each point piece in a row is worth
+				score += computeScore(columnArray, state, piece,score);
 		}
 		//upwards diagonals
-		for(int c=0; c<state.columns - winNum; c++){
+		//this was our attempt to check diagonallys facing upwards, but we could not get it to work the way we wanted
+			/*	for(int c=0; c<state.columns - winNum; c++){
 			for(int r=0; r<state.rows- winNum; r++){
 				for(int i = 0; i < state.winNumber; i++) {
 					 window[i] = state.getBoardMatrix()[r+i][c+i];
@@ -125,6 +105,7 @@ public class NewPlayer extends Player{
 			}
 		}
 		//downwards diagonals
+	    //this was our attempt to check diagonallys facing upwards, but we could not get it to work the way we wanted
 		for(int c=0; c<state.columns - winNum; c++){
 			for(int r=0; r<state.rows- winNum; r++){
 				for(int i = 0; i < state.winNumber; i++) {
@@ -133,26 +114,41 @@ public class NewPlayer extends Player{
 				score += computeScore(window, state, piece,score);
 				System.out.println("current score DD:" + score);
 			}
-		}
+		}*/
 		
+		//returns the score of the board evaluation
 		return score;
 		
 	}
-	
+
+	//helper function for evaluate score
+	//goes through and counts the pieces in the windows and scores them accordingly
 	int computeScore(int[] window, StateTree state,int piece,int score) {
+		int initScore = score;
 		int winNum = state.winNumber - 1;
+		int oppPiece = -1;
+		if(piece == 1 ) {
+			 oppPiece = 2;
+		}
+		else {
+			oppPiece = 1; 
+		}
 		
 		if(count(window,piece) == state.winNumber) {
-			score += 100;
+			initScore += 100;
 		}
 		else if((count(window,piece) == winNum)&&(count(window, 0)==1)) {
-			score += 10;
+			initScore += 10;
 		}
 		else if((count(window,piece) == winNum - 1)&&(count(window, 0) == 2)) {
-			score += 5;
+			initScore += 5;
 		}
+	//was supposed to help block an opponent that had 3 in a row, but didn't work
+	//	if((count(window,oppPiece) == winNum)&&(count(window,0) == 1)) {
+	//		initScore -= 80;
+	//	}
 		
-		return score;
+		return initScore;
 	}
 	
 	//returns the Column number for a winning 4 in a row
@@ -229,24 +225,26 @@ public class NewPlayer extends Player{
 	}
 
 	
-	//counts the number of a piece in an array
+	//counts the number of a pieces in an array
 	int count(int[] array, int piece) {
 		int count = 0;
 		for(int i = 0; i < array.length; i++)
 	        {
 	            if(array[i] == piece)
 	            {
-	                count++;
+	            	count = count + 1;
+	            	
 	            }
 	        }
 		return count;
 	}
 
-
+	//casts statetree as a refereeboard so we can make an instance of a statetree
 	public RefereeBoard getBoard(StateTree state) {
 		return (RefereeBoard) state.parent;
 	}
 	
+	//Copies the statetree board into a new double array so we don't screw up the original
 	public RefereeBoard copyBoard(RefereeBoard oldBoard, RefereeBoard newBoard) {
 		
 		for(int i=0; i<oldBoard.rows; i++) {
@@ -257,11 +255,11 @@ public class NewPlayer extends Player{
 		return newBoard;
 	}
 	
-	/**
+	/*
 	* This function will create children for any element in a tree that doesn't have children
 	* and isn't and end condition
 	*/
-	public void makeChildren(StateTree state, int depth, int max_height) 
+	public void makeChildren(StateTree state, int depth) 
 	{
 		
 		if(depth==0 && state.children.size()==0)  // if this statetree object has no children, make it children
@@ -281,32 +279,15 @@ public class NewPlayer extends Player{
 						{
 						updatedBoard.makeMove(possibleDropMove);
 						state.children.add(updatedBoard);
-						//System.out.println("TESTPLAYER1DROP:    row:"+i+"col:"+j);
 						}
 					}
-//					 else if(state.getBoardMatrix()[0][j] != 0) //if column has at least one disc, pop it
-//					{
-//						RefereeBoard newBoard;
-//						newBoard = new RefereeBoard(state.rows, state.columns, state.winNumber, state.turn, state.pop1, state.pop2, state.parent);
-//						
-//						RefereeBoard updatedBoard = copyBoard((RefereeBoard) state, newBoard);
-//						Move possiblePopMove = new Move(true, j);
-//						if(updatedBoard.validMove(possiblePopMove))
-//						{
-//						updatedBoard.makeMove(possiblePopMove);
-//						state.children.add(updatedBoard);
-//						System.out.println("TESTPLAYER1POP");
-//						}				
-//						//updatedBoard.turn = 2;
-//					}
 				}
 			}
-			//}
 		}
 		
 		if(depth!=0) 
 		{
-				makeChildren(state, (depth-1), max_height);
+				makeChildren(state, (depth-1));
 		}
 	}
 	
@@ -359,9 +340,19 @@ public class NewPlayer extends Player{
 		
 		return true;
 	}
-
 	
-	public int minimax(StateTree board, int depth, int playerNum) {
+	//sets the optimal statetree from the minimax function
+	public void setOptimalState(StateTree state) {
+		this.optimalState = state;
+	}
+
+	//gets the optimal statetree from the minimax function
+	public StateTree getOptimalState() {
+		return this.optimalState;
+	}
+	
+	//Does the minimax algorithim on our statetree
+	public int minimax(StateTree board, int depth, int playerNum, int alpha, int beta) {
 		if(depth==0 || isTerminalNode(board)) {
 			if(isTerminalNode(board)) {
 				if(wonGame(board, 1)) {
@@ -374,8 +365,8 @@ public class NewPlayer extends Player{
 				}
 			} else //depth is 0
 			{
-				//System.out.println("recursion");
-				return evaluateScore(board, 1);
+				int test = evaluateScore(board, board.turn);
+				return test;
 			}
 		}
 		
@@ -384,7 +375,12 @@ public class NewPlayer extends Player{
 			int value = -1000000000;
 			for(int i=0; i<board.children.size(); i++)
 			{
-				value = max(value, minimax(board, (depth-1), 2));
+				value = max(value, minimax(board, (depth-1), 2, alpha, beta));
+				setOptimalState(board.children.get(i));
+				alpha = max(alpha, value);
+				if(alpha >= beta) {
+					break;
+				}
 			}
 			return value;
 		}
@@ -394,7 +390,12 @@ public class NewPlayer extends Player{
 			int value = 1000000000;  
 			for(int i=0; i<board.children.size(); i++)
 			{
-				value = min(value, minimax(board, (depth-1), 1));
+				value = min(value, minimax(board, (depth-1), 1, alpha, beta));
+				setOptimalState(board.children.get(i));
+				beta = min(beta, value);
+				if(alpha >= beta) {
+					break;
+				}
 			}
 			return value; 
 		}
